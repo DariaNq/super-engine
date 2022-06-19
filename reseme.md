@@ -14,3 +14,5 @@
 
 [Ссылка](https://rezume.info/)
 
+![помощь в написании резюме](https://fb.ru/misc/i/gallery/32850/2776864.jpg)
+
