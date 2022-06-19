@@ -4,3 +4,4 @@
 
 **git branch branch_name** - создание новой ветки, где *branch name* имя ветки.
 
+**git checkout checkout_name** - переключение между ветками, извлечение файлов
